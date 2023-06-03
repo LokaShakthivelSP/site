@@ -74,7 +74,7 @@ a {
 	-moz-transition: 300ms;
 	-o-transition: 300ms;
 	transition: 300ms;
-	color:#fc7700;
+	color:#47fc00;
 }
 
 h1, h2, h3, h4, h5, h6, p {
@@ -256,7 +256,7 @@ p{
 #navigation .navbar-nav  .active  a:focus, 
 #navigation .navbar-nav a:hover {
 	color: #fff;
-	background-color: #fc7700;
+	background-color: #47fc00;
 }
 
 
@@ -273,7 +273,7 @@ p{
 }
 
 .title-one:after {
-	color: #fc7700;
+	color: #47fc00;
 	content: "||";
 	position: absolute;
 	right: -40px;
@@ -281,7 +281,7 @@ p{
 }
 
 .title-one:before {
-	color: #fc7700;
+	color: #47fc00;
 	content: "||";
 	left: -40px;
 	position: absolute;
@@ -289,7 +289,7 @@ p{
 }
 
 #home span{
-	color:#fc7700;
+	color:#47fc00;
 }
 
 /*====================
@@ -323,7 +323,7 @@ p{
 }
 
 #our-team .badge{
-	background-color:#fc7700;
+	background-color:#47fc00;
 }
 
 .single-member {
@@ -336,7 +336,7 @@ p{
 
 
 #our-team .btn-play {
-	background-color:#fc7700;
+	background-color:#47fc00;
 	border-color:#f6f6f6;
 	color:white;
 	border-radius:0;
@@ -393,7 +393,7 @@ p{
 .portfolio-filter li a:active , 
 #portfolio 
 .portfolio-filter li .active{
-	border: 1px solid #fc7700;
+	border: 1px solid #47fc00;
 	color: #686868;
 	box-shadow: none;
 	-webkit-box-shadow: none;
@@ -510,7 +510,7 @@ p{
 }
 
 .mask i:hover{
-	background-color:#fc7700;
+	background-color:#47fc00;
 	color:#fff;  
 }
 
@@ -564,7 +564,7 @@ p{
 }
 
 .contact-address  .name span {
-	color:#fc7700;
+	color:#47fc00;
 }
 
 
@@ -587,7 +587,7 @@ p{
 }
 
 #footer span {
-	color:#fc7700
+	color:#47fc00
 }
 
 
